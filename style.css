@@ -1,0 +1,38 @@
+td {
+    height: 50px;
+    width: 50px;
+}
+
+table {
+    border: 1px solid grey;
+}
+
+body {
+    background-color: black;
+}
+
+.active {
+    background-color: darkgrey;
+}
+
+.nest {
+    background-color: #6ab04c;
+    color: white;
+    height: 50px;
+    width: 50px;
+}
+
+.food {
+    background-color: #F3B431;
+    color: white;
+    height: 50px;
+    width: 50px;
+}
+
+.pheroNest {
+    color: #0A79DF;
+}
+
+.pheroFood {
+    color: #E71C23;
+}
